@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🎓 I’m currently working on my Master’s of Computer and Information Technology (MCIT) at the University of Pennsylvania  
+- 🎓 I’m working on my Master’s of Computer and Information Technology (MCIT) at the University of Pennsylvania  
 - 💻 My concentrations include databases, computer vision, blockchain and artifical intelligence
 - 💾 I can program Java, C, SQL, Python, NoSQL, MongoDB, Neo4j, PHP, JavaScript
 - 📊 I can build data visualizations in Tableau and Power BI 
