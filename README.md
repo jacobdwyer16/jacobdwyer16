@@ -3,7 +3,7 @@
 
 - 🎓 I’m working on my Master’s of Computer and Information Technology (MCIT) at the University of Pennsylvania  
 - 💻 My concentrations include databases, computer vision, blockchain and artifical intelligence
-- 💾 I can program Java, C, SQL, Python, NoSQL, MongoDB, Neo4j, PHP, JavaScript
+- 💾 I can program Java, C, SQL, Python, NoSQL, MongoDB, Neo4j, PHP, JavaScript, and more...
 - 📊 I can build data visualizations in Tableau and Power BI 
 - 💸 I'm also a Certified Public Accountant
 - 📫 How to reach me: jacobdwyer16@gmail.com
