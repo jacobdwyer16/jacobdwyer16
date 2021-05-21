@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 💬 Academic projects are kept private but available on request!
 - 🎓 I’m working on my Master’s of Computer and Information Technology (MCIT) at the University of Pennsylvania  
 - 💻 Specialized coursework include databases, computer vision, blockchain, cryptography, and artifical intelligence
 - 💾 I can program Java, C, SQL, Python, NoSQL, MongoDB, Neo4j, PHP, JavaScript, and more...
